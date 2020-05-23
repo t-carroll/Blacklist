@@ -1,3 +1,4 @@
+track name="mm10_blacklist" description="mm10_blacklist"
 chr10	0	3135400	High Signal Region
 chr10	3218900	3276600	Low Mappability
 chr10	3576900	3627700	Low Mappability
